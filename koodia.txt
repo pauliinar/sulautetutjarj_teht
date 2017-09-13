@@ -3,6 +3,6 @@
   
   //Tähän tulee ohjelman toteutus;
  
-System.out.println("Ni!"); 
+  System.out.println("Ni!"); 
   }
 }
